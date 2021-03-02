@@ -1,6 +1,7 @@
-[
 {
-"ERR_HA_FUELCELL_DEMAND_POWER":
-"The use of a fuel cell for heat generation only makes economic sense if you exceed a certain power consumption. Unfortunately, your power consumption is too low for the efficient use of a fuel cell.We are happy to do it An alternative offer to rent or buy a gas heater. Simply start the E.ON heater finder again. "
-}
+  [
+  {
+"ERR_HA_FUELCELL_DEMAND_POWER":"The use of a fuel cell for heat generation only makes economic sense if you exceed a certain power consumption. Unfortunately, your power consumption is too low for the efficient use of a fuel cell.We are happy to do it An alternative offer to rent or buy a gas heater. Simply start the E.ON heater finder again. "
+  }
 ]
+}
